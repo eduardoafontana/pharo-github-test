@@ -5,4 +5,5 @@ RestartDebugAction >> executeAction [
 
 	self session restart: self currentContext.
 	MyCustomClass new.
+	MyCustomClass new.
 ]
